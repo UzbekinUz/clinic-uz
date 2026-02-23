@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Health Packages",
+    "subtitle": "One Checkup, Total Peace of Mind",
+    "desc": "Comprehensive health screenings for men, women, and children — because prevention is the best care of all.",
+    "img": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
+  },
+  {
+    "title": "Evacuation and Repatriation Service",
+    "subtitle": "We'll bring you home, safely",
+    "desc": "From remote regions to medical emergencies — we coordinate every step of evacuation or repatriation with care and precision.",
+    "img": "https://images.unsplash.com/photo-1582719508461-905c673771fd?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
+  },
+  {
+    "title": "Dental Service",
+    "subtitle": "Your smile, our passion",
+    "desc": "From routine cleanings to complex treatments — we care for your smile like it's our own.",
+    "img": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
+  }
+]
